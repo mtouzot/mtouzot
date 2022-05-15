@@ -1,4 +1,4 @@
-## :pushpin: About the blog
+## :pushpin: About [mtouzot.github.io](https://mtouzot.github.io/)
 
 This blog main goal is to **document** and **share** some personal projects I'm working on. As a memo :memo:, it'll help me to track the evolution of **_some_** ideas :bulb: I could have from their birth to their __most__ final shape!<br>
 
@@ -15,7 +15,3 @@ In my free time, when I'm not watching a **movie** :clapper: at the [Grand Rex](
 * learning **guitar** :guitar: (or **ukulele**)
 * **making** :construction_worker: my DIY projects come alive
 * **streaming** :red_circle: my projects on [Twitch](https://twitch.tv/mt_mak3r) _when I can_
-
-## Greating
-
-This GitHub Page is build with [Thiago Rossener](https://github.com/thiagorossener) [Jekflix template](https://github.com/thiagorossener/jekflix-template) theme.
