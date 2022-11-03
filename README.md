@@ -15,3 +15,7 @@ In my free time, when I'm not watching a **movie** :clapper: at the [Grand Rex](
 * learning **guitar** :guitar: (or **ukulele**)
 * **making** :construction_worker: my DIY projects come alive
 * **streaming** :red_circle: my projects on [Twitch](https://twitch.tv/mt_mak3r) _when I can_
+
+## Git stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mtouzot&count_private=true&theme=graywhite&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mtouzot&langs_count=5&theme=graywhite)]()
