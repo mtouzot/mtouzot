@@ -1,4 +1,4 @@
-## :pushpin: About [mtouzot.github.io](https://mtouzot.github.io/) (currently under maintenance)
+## :pushpin: About [mtouzot.github.io](https://mtouzot.github.io/)
 
 This blog main goal is to **document** and **share** some personal projects I'm working on. As a memo :memo:, it'll help me to track the evolution of **_some_** ideas :bulb: I could have from their birth to their __most__ final shape!<br>
 
