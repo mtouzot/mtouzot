@@ -1,8 +1,3 @@
-## :pushpin: About [mtouzot.github.io](https://mtouzot.github.io/)
-
-This blog main goal is to **document** and **share** some personal projects I'm working on. As a memo :memo:, it'll help me to track the evolution of **_some_** ideas :bulb: I could have from their birth to their __most__ final shape!<br>
-
-The main subjects you'll find here will focused on **software programming** :computer:, **DIY** _(3D printing, craft,...)_ :construction:, **hardware** and **basic electronics** _(Raspberry Pi, Arduino)_ :electric_plug:, and maybe more!
 
 ## :bust_in_silhouette: About me
 
@@ -15,6 +10,12 @@ In my free time, when I'm not watching a **movie** :clapper: at the [Grand Rex](
 * learning **guitar** :guitar: (or **ukulele**)
 * **making** :construction_worker: my DIY projects come alive
 * **streaming** :red_circle: my projects on [Twitch](https://twitch.tv/mt_mak3r) _when I can_
+
+## :pushpin: About [mtouzot.github.io](https://mtouzot.github.io/)
+
+This blog main goal is to **document** and **share** some personal projects I'm working on. As a memo :memo:, it'll help me to track the evolution of **_some_** ideas :bulb: I could have from their birth to their __most__ final shape!<br>
+
+The main subjects you'll find here will focused on **software programming** :computer:, **DIY** _(3D printing, craft,...)_ :construction:, **hardware** and **basic electronics** _(Raspberry Pi, Arduino)_ :electric_plug:, and maybe more!
 
 ## Git stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mtouzot&count_private=true&theme=graywhite&showicons=true)]()
