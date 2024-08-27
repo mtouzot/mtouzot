@@ -5,11 +5,10 @@ I'm Martin TOUZOT, a software developper :computer: working in the image process
 
 In my free time, when I'm not watching a **movie** :clapper: at the [Grand Rex](https://www.legrandrex.com/) and with no **novels** :books: to read, I love :
 * playing **board games** :game_die: with friends
-* **running** :runner: to take on personal challenges (10km, half-marathon, marathon,...)
-* **traveling** :steam_locomotive: in France or outer world
+* **running** :runner:
+* **traveling** :steam_locomotive:
 * learning **guitar** :guitar: (or **ukulele**)
 * **making** :construction_worker: my DIY projects come alive
-* **streaming** :red_circle: my projects on [Twitch](https://twitch.tv/mt_mak3r) _when I can_
 
 ## :pushpin: About [mtouzot.github.io](https://mtouzot.github.io/)
 
