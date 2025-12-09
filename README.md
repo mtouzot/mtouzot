@@ -17,5 +17,5 @@ This blog main goal is to **document** and **share** some personal projects I'm 
 The main subjects you'll find here will focused on **software programming** :computer:, **DIY** _(3D printing, craft,...)_ :construction:, **hardware** and **basic electronics** _(Raspberry Pi, Arduino)_ :electric_plug:, and maybe more!
 
 ## Git stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mtouzot&count_private=true&theme=transparent&showicons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mtouzot&langs_count=6&theme=transparent)]()
+[![My GitHub Stats](https://github-readme-stats-six-mocha-90.vercel.app/api/?username=mtouzot&count_private=true&theme=transparent&showicons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)]()
+[![My GitHub Language Stats](https://github-readme-stats-six-mocha-90.vercel.app/api/top-langs/?username=mtouzot&langs_count=6&theme=transparent)]()
